@@ -1,0 +1,21 @@
+body{
+	background-color: black;
+}
+button{
+	font-size: 25px;
+}
+#motavation{
+	text-align: center;
+	color: #595959;
+}
+#motavation p{
+	background-color: white ;
+	font-family: cursive, fantasy, Bold;
+	font-size: 27px;
+}
+h1{
+	color: red;
+}
+p:hover{
+	color: red;
+}
