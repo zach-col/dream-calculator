@@ -3,6 +3,9 @@ body{
 }
 button{
 	font-size: 25px;
+	text-align: center;
+	margin-left: 0px;
+	margin-right: 0px;
 }
 #motavation{
 	text-align: center;
@@ -15,7 +18,10 @@ button{
 }
 h1{
 	color: rgb(17, 11, 90);
+	text-align: center;
 }
 p:hover{
 	color: rgb(17, 11, 90);
+	text-align: center;
+	padding-bottom: 20px;
 }
