@@ -23,4 +23,10 @@ else{
 	 "<p>All of these people worked on their Dreams no matter the circumstance</p>" +
 	 "<p>What is your excuse for only working on your dream less then 50% of your free time?..........</p>");
 };
+		$(document).ready(function(){
+		    $("#video").ready(function(){
+		        $("#video").show();
+		        $("button").hide();
+		    });
+		});
 };
