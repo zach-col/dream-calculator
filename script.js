@@ -25,7 +25,6 @@ else{
 };
 		$(document).ready(function(){
 		    $("#video").ready(function(){
-		        $("#video").show();
 		        $("button").hide();
 		    });
 		});
